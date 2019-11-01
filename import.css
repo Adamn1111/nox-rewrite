@@ -13521,3 +13521,22 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .theme-dark .quickSelectPopout-X1hvgV {
     background: var(--nox-level3);
 }
+
+.customStatus-1KPfFb {
+font-size: 12.5px;
+position: relative;
+top: 9px;
+}
+
+.clearStatus-2hmUqc {
+display:none;
+}
+
+button.emojiButtonNormal-TdumYh.emojiButton-3uL3Aw.da-emojiButtonNormal.da-emojiButton.emojiButton-2NpAb3.da-emojiButton.button-38aScr.da-button.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN.da-grow{
+  opacity: 1;
+}
+
+.emoji-MCvpgl {
+    background-color: var(--nox-level1);
+}
+
