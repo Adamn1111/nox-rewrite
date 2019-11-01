@@ -6,7 +6,7 @@ Not me. I'm just fixing it so that the guys that actually made it don't have to.
 ### Why is it called rewritten
 Because Nox-Fixed sounds like ass. Also I spent so fucking long on it.
 ### How do I download it?
-https://adamn1111.github.io/nox-rewrite/NoxRewritten.theme.css
+[Here](https://adamn1111.github.io/nox-rewrite/NoxRewritten.theme.css)
 ### Where is the actual Source code so that I can steal this?
-https://adamn1111.github.io/nox-rewrite/import.css
+[Here](https://adamn1111.github.io/nox-rewrite/import.css)
 
