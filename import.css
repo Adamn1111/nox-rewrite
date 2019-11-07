@@ -2452,3 +2452,37 @@ button.emojiButtonNormal-TdumYh.emojiButton-3uL3Aw.da-emojiButtonNormal.da-emoji
   d: path("M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z") !important;
   transform: translate(2px, -2px); 
 }
+.botTag-2WPJ74.botTagInvert-18-95s {
+    color: var(--nox-white)!important;
+    background: var(--nox-level3)!important;
+}
+.botTag-2WPJ74 {
+    background: var(--nox-accent);
+}
+.theme-dark .themedPopout-1TrfdI:not(.messagesPopoutWrap-1MQ1bW) {
+    background-color: var(--nox-level1);
+    border-color: var(--nox-level3)
+  }
+.BDFDB-select .css-ua3v5p-menu {
+    background-color: var(--nox-level2);
+    border-color: var(--nox-level3);
+}
+.bda-dark .emojiPicker-3m1S-j {
+    border: none;
+    border-radius: 4px;
+}
+.numberBadge-2s8kKX.base-PmTxvP.da-numberBadge.da-base{
+  background-color: var(--nox-important-notification) !important;
+}
+.chat-3bRxxu form .wrapper-39oAo3 {
+    background: var(--nox-level2);
+}
+.translate-button {
+    right: 5px !important;
+}
+.css-1ye7vu0 {
+background-color: var(--nox-level2)
+}
+.themeDefault-24hCdX.valueChecked-m-4IJZ {
+    background-color: var(--nox-accent) !important;
+}
