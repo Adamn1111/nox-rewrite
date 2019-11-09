@@ -2486,3 +2486,9 @@ background-color: var(--nox-level2)
 .themeDefault-24hCdX.valueChecked-m-4IJZ {
     background-color: var(--nox-accent) !important;
 }
+.privateChannelRecipientsInviteButtonIcon-cXLJ7f {
+    display: none;
+}
+.container-1r6BKw .popout-open .icon-22AiRD {
+    transform: translateY(0px);
+}
