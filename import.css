@@ -2532,3 +2532,6 @@ transform: translateX(13px);
 .statusGreen-168O6Q {
     color: var(--nox-accent);
 }
+.platform-win .sidebar-2K8pFh {
+    border-radius: 25px 0 0 !important;
+}
