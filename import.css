@@ -2523,3 +2523,12 @@ transform: translateX(13px);
 .header-2o-2hj {
     border-radius: 25px 0px 0px;
 }
+.theme-dark .footer-1kmXd4 {
+    background-color: var(--nox-level3);
+}
+.theme-dark .messagesPopoutWrap-1MQ1bW {
+    border: var(--nox-level3);
+}
+.statusGreen-168O6Q {
+    color: var(--nox-accent);
+}
