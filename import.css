@@ -2539,3 +2539,21 @@ transform: translateX(13px);
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
     background-color: var(--nox-accent) !important;
 }
+.inviteRowInfo-I9V9v- {
+    overflow: visible;
+    margin-right: 4px;
+}
+.userPopout-3XzG_A .role-2irmRk, .userPopout-3XzG_A .member-perms .member-perm {
+    display: flex;
+    border-radius: 0px;
+    flex: auto;
+    overflow: hidden;
+}
+.roleName-32vpEy.da-roleName{
+	width: 100%;
+	text-align: center !important;
+}
+.roleCircle-3xAZ1j.da-roleCircle{
+	width: 0px;
+	height: 0px;
+}
