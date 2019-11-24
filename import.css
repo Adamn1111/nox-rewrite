@@ -2550,3 +2550,7 @@ transform: translateX(13px);
 .theme-dark .container-VSDcQc .sectionTag-pXyto9 {
     background-color: var(--nox-level2);
 }
+.theme-dark .uploadModal-2ifh8j {
+    background-color: var(--nox-level1);
+    box-shadow: var(--nox-level2) 0px 0px 0px 1px, rgba(0, 0, 0, 0.2) 0px 2px 10px 0px;
+}
