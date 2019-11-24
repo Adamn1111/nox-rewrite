@@ -1,15 +1,4 @@
 :root{--nox-version:"Nox v1.1.0";--default-animation:cubic-bezier(0.4,0,0.2,1);--nox-accent:#7289DA;--nox-notification-color:#fff;--nox-notification-width:3px;--nox-important-notification:#F04747;--nox-channels-scrollbar:initial;--nox-settings-scrollbar:initial;--nox-settings-time:500ms;--nox-level1:#303030;--nox-level2:#212121;--nox-level3:#141414;--nox-white:rgba(255,255,255,1);--nox-white0:rgba(255,255,255,0);--nox-white1:rgba(255,255,255,.1);--nox-white2:rgba(255,255,255,.2);--nox-white3:rgba(255,255,255,.3);--nox-white4:rgba(255,255,255,.4);--nox-white5:rgba(255,255,255,.5);--nox-white6:rgba(255,255,255,.6);--nox-white7:rgba(255,255,255,.7);--nox-white8:rgba(255,255,255,.8);--nox-white9:rgba(255,255,255,.9);--nox-black:rgba(0,0,0,1);--nox-black0:rgba(0,0,0,0);--nox-black1:rgba(0,0,0,.1);--nox-black2:rgba(0,0,0,.2);--nox-black3:rgba(0,0,0,.3);--nox-black4:rgba(0,0,0,.4);--nox-black5:rgba(0,0,0,.5);--nox-black6:rgba(0,0,0,.6);--nox-black7:rgba(0,0,0,.7);--nox-black8:rgba(0,0,0,.8);--nox-black9:rgba(0,0,0,.9)}
-[role="img"][aria-label]:before{content:"";position:absolute;width:100%;height:100%;box-shadow:0 0 0 2px #666;border-radius:50%;z-index:20;border:none!important}
-.friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm{padding-left:15px}
-[role="img"][aria-label] foreignObject{mask:none}
-[role="img"][aria-label] foreignObject img{border-radius:50%}
-[role="img"][aria-label] svg rect{display:none}
-[role="img"][aria-label*="Online"]:before{box-shadow:0 0 0 2.25px #32a852}
-[role="img"][aria-label*="Do Not Disturb"]:before{box-shadow:0 0 0 2.25px #7a0000}
-[role="img"][aria-label*="Idle"]:before{box-shadow:0 0 0 2.25px #faa61a}
-[role="img"][aria-label*="Streaming"]:before{box-shadow:0 0 0 2.25px #6441a5}
-[role="img"][aria-label*="Offline"]:before{box-shadow:0 0 0 2.25px #4d4d4d}
-[role="img"][aria-label*="Invisible"]:before{box-shadow:0 0 0 2.25px #4d4d4d}
 .item-1GzJrl{position:relative;justify-content:space-evenly}
 .menu-Sp6bN1{background:var(--nox-level3);width:240px}
 #popout_1{bottom:72px!important;left:72px!important}
