@@ -2377,7 +2377,7 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active){opacity:0;transform:tr
 .animatorTop-2Y7x2r .menu-Sp6bN1 .itemBase-1Qj4z6:nth-child(4){animation-delay:180ms!important}
 .animatorTop-2Y7x2r .menu-Sp6bN1 .itemBase-1Qj4z6:nth-child(5){animation-delay:220ms!important}
 .animatorTop-2Y7x2r .menu-Sp6bN1 .itemBase-1Qj4z6:hover{background-color:transparent}
-.statusIconText-3b4TkH{left:0;right:0;margin:14px auto 0;transition:180ms var(--default-animation)}
+.statusIconText-3b4TkH{left:0;right:0;margin:14px auto 0;transition:180ms var(--default-animation);font-size:0px}
 .status-3Kz6VS{margin:0}
 .statusIconText-3b4TkH,.animatorTop-2Y7x2r .menu-Sp6bN1 .status-3Kz6VS{width:40px;height:40px}
 .animatorTop-2Y7x2r .menu-Sp6bN1 .status-3Kz6VS{border-radius:50%}
