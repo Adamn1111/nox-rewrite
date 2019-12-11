@@ -2479,3 +2479,19 @@ button.emojiButtonNormal-TdumYh.emojiButton-3uL3Aw.da-emojiButtonNormal.da-emoji
 .anchor-3Z-8Bb {
     display: none;
 }
+
+.scrollableContainer-38zsVD {background-color: transparent;border-radius: 0px;}
+.attachWrapper-1_D-pj {
+	border: none;
+}
+.attachButton-1UjEWA {
+  position: sticky;
+	width: 40px;
+	height: 50px;
+	margin: 12px 0 0 12px;
+	box-shadow: none !important;
+	cursor: pointer;
+}
+.textArea-2Spzkt {
+    min-height: 24px !important;
+}
