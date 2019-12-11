@@ -2481,3 +2481,7 @@ button.emojiButtonNormal-TdumYh.emojiButton-3uL3Aw.da-emojiButtonNormal.da-emoji
 .textArea-2Spzkt {
     opacity: 1 !important;
 }
+.homeIcon-tEMBK1 path {
+    d: path("M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z") !important;
+    transform: translate(2px, -2px);
+}
