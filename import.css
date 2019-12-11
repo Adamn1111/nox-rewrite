@@ -2478,3 +2478,6 @@ button.emojiButtonNormal-TdumYh.emojiButton-3uL3Aw.da-emojiButtonNormal.da-emoji
 .attachButton-1UjEWA{position:sticky;width:40px;height:50px;margin:12px 0 0 12px;box-shadow:none!important;cursor:pointer}
 .textArea-2Spzkt{min-height:24px!important}
 .placeholder-P6ptfj{padding-top:2px}
+.textArea-2Spzkt {
+    opacity: 1 !important;
+}
