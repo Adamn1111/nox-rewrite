@@ -2485,3 +2485,9 @@ button.emojiButtonNormal-TdumYh.emojiButton-3uL3Aw.da-emojiButtonNormal.da-emoji
     d: path("M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z") !important;
     transform: translate(2px, -2px);
 }
+.channel-2QD9_O[href="/channels/@me"] {
+  width: 100%!important
+}
+.channel-2QD9_O:not([style="height: 42px; opacity: 1;"]) {
+    width: 100%!important
+}
