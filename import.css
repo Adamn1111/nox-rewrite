@@ -2502,3 +2502,6 @@ button.emojiButtonNormal-TdumYh.emojiButton-3uL3Aw.da-emojiButtonNormal.da-emoji
     width: 72px!important;
     margin: 0 0 8px !important;
 }
+#app-mount .guildSeparator-3s64Iy {
+    display: none;
+}
