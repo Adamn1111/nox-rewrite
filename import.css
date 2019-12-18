@@ -10,3 +10,7 @@
 /*Char-Count Changes + Repositioning of the Emoji / Translate button*/
 .theme-dark .root-1gCeng{background-color:var(--nox-level2)}.buttons-205you{right:-2px}.containerCozy-B4noqO:not(:empty){margin-bottom:8px;overflow:hidden}.characterCount-1WlRq9{color:var(--nox-white5)}
 /*Char-Count Changes + Repositioning of the Emoji / Translate button End*/
+
+/*Fuck the Help Button*/
+.theme-dark .grandfatheredMessage-1BnHtv{background:var(--nox-level1)}.banner-3Kac2g{background:var(--nox-level1)!important}.clickable-3rdHwn{cursor:pointer;left:20px}.container-1r6BKw .icon-22AiRD[name=Nova_Help]{display:block;margin-left:-9999px}.search-2oPWTC{left:20px}
+/*Fuck the Help Button End*/
