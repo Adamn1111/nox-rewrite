@@ -14,3 +14,7 @@
 /*Fuck the Help Button*/
 .theme-dark .grandfatheredMessage-1BnHtv{background:var(--nox-level1)}.banner-3Kac2g{background:var(--nox-level1)!important}.clickable-3rdHwn{cursor:pointer;left:20px}.container-1r6BKw .icon-22AiRD[name=Nova_Help]{display:block;margin-left:-9999px}.search-2oPWTC{left:20px}
 /*Fuck the Help Button End*/
+
+/*Moved the home button by literally 1px I hate you all*/
+.wrapper-1Rf91z:not(.foldercontent) .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child{top:-48px!important}
+/*Moved the home button by literally 1px I hate you all End*/
