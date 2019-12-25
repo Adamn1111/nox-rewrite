@@ -21,3 +21,9 @@
 .wrapper-1Rf91z:not(.foldercontent) .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child{top:-48px!important}
 /*Moved the home button by literally 1px I hate you all End*/
 
+/*Fixed the size of the server-boosting icon*/
+.icon-360yEu, .iconWrapper-2Urb3j {
+    width: 24px !important;
+    height: 24px !important;
+}
+/*Bruh*/
