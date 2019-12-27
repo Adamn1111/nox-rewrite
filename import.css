@@ -22,8 +22,9 @@
 /*Moved the home button by literally 1px I hate you all End*/
 
 /*Fixed the size of the server-boosting icon*/
-.icon-360yEu, .iconWrapper-2Urb3j {
-    width: 24px !important;
-    height: 24px !important;
-}
-/*Bruh*/
+.icon-360yEu,.iconWrapper-2Urb3j{width:24px!important;height:24px!important}
+/*Fixed the size of the server-boosting icon end*/
+
+/*Themed boost UI*/
+.theme-dark .perksModal-fSYqOq{background-color:var(--nox-level1)}.theme-dark .ctaBar-2UsjF2{background-color:var(--nox-level2)}.theme-dark .perk-2WeBWW{background-color:var(--nox-level2)}
+/*Themed boost UI end*/
