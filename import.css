@@ -28,3 +28,7 @@
 /*Themed boost UI*/
 .theme-dark .perksModal-fSYqOq{background-color:var(--nox-level1)}.theme-dark .ctaBar-2UsjF2{background-color:var(--nox-level2)}.theme-dark .perk-2WeBWW{background-color:var(--nox-level2)}
 /*Themed boost UI end*/
+
+/*Fixed circular status cutoff in permissions for channels*/
+.xsmallAvatar-3MTKjd{width:20px!important;height:20px!important;left:2px}.roleInner-1C_Scc{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;height:31px;padding-top:4px}.horizontal-1ae9ci>.flex-1xMQg5:last-child,.horizontal-1ae9ci>.flexChild-faoVW3:last-child{margin-right:0;position:relative;bottom:2px;left:-2px}.username-1pvYDh{margin-left:10px}
+/*Fixed circular status cutoff in permissions for channels end*/
