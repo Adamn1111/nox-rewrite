@@ -36,5 +36,6 @@
 /*Foxo = Perfectionist*/
 .wrapper-1Rf91z:not(.foldercontent) .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {
     top: -49px !important;
+    box-shadow: 0px 0.5px 1px var(--nox-level3) !important;
 }
 /*Foxo = Perfectionist End*/
