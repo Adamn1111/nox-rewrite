@@ -44,3 +44,12 @@ button.statusWithPopout-3ZfFol.da-statusWithPopout.rtcConnectionStatusConnected-
     position: relative;
     left: -15px;
 }
+.theme-dark .theme-dark .action-1lSjCi, .theme-dark .theme-light .action-1lSjCi {
+    background: var(--nox-level2);
+}
+.theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
+    background-color: var(--nox-level3);
+}
+.theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
+    background-image: none !important;
+}
