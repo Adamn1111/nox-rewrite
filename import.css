@@ -53,3 +53,6 @@ button.statusWithPopout-3ZfFol.da-statusWithPopout.rtcConnectionStatusConnected-
 .theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
     background-image: none !important;
 }
+.container-3cGP6G {
+    background-color: var(--nox-level2);
+}
