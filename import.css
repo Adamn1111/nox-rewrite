@@ -67,3 +67,7 @@ button.attachButton-2WznTc.da-attachButton.button-38aScr.da-button.lookBlank-3eh
 button.buttonWrapper-1ZmCpA.da-buttonWrapper.button-38aScr.da-button.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN.da-grow {
     box-shadow: none;
 }
+.circleIconButton-jET_ig>svg {
+    z-index: 1;
+    color: var(--nox-accent);
+}
