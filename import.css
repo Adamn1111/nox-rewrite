@@ -7,3 +7,20 @@ a.wrapper-1BJsBx.da-wrapper[aria-label="Home"]{position:relative;height:100%;top
 #bd-settingspane-container .ui-switch-item {
     background-color: var(--nox-level1);
 }
+.attachPopout-36hjtN {
+    background-color: var(--nox-level2);
+	opacity: 1;
+}
+.wrapper-KXM2i0 {
+    z-index: 20;
+    position: relative;
+    background-color: var(--nox-level2);
+}
+.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyCenter-3D2jYp.alignCenter-1dQNNs.noWrap-3jynv6 {
+    background-color: var(--nox-level1);
+    border-radius: 5px;
+    height: 45px;
+}
+.gradientContainer-12xgBp, .videoControls-2EXLlI {
+    top: -4px;
+}
