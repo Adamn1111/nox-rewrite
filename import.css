@@ -24,3 +24,6 @@ a.wrapper-1BJsBx.da-wrapper[aria-label="Home"]{position:relative;height:100%;top
 .gradientContainer-12xgBp, .videoControls-2EXLlI {
     top: -4px;
 }
+.theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4 {
+    background-color: var(--nox-level3);
+}
